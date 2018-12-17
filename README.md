@@ -1,3 +1,3 @@
 # HELLO
-hajimema shita.
+hi
 sozo yoroshikune.
